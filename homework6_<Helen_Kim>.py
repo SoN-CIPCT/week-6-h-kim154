@@ -20,3 +20,4 @@ for city, info in cities.items():
     print('Country:', info['country'])
     print('Population:', info['population'])
     print('Fact:', info['fact'])
+    
